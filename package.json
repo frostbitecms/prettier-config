@@ -1,6 +1,6 @@
 {
 	"name": "@frostbitecms/prettier",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "frostbitecms prettier config rules",
 	"main": ".prettierrc.json",
 	"private": false,
