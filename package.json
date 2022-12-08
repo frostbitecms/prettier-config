@@ -1,0 +1,15 @@
+{
+	"name": "@frostbitecms/prettier",
+	"version": "1.0.0",
+	"description": "frostbitecms prettier config rules",
+	"main": ".prettierrc.json",
+	"private": false,
+	"files": [
+		".prettierrc.json"
+	],
+	"repository": "git@github.com:frostbitecms/prettier-config.git",
+	"license": "ISC",
+	"engines": {
+		"node": ">=8.10.0"
+	}
+}
